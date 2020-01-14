@@ -3,6 +3,7 @@
 Asynchronous SOCKS5 client library
 
 [![Build Status](https://travis-ci.org/Postuf/SocksProxyAsync.svg?branch=master)](https://travis-ci.org/Postuf/SocksProxyAsync) [![codecov](https://codecov.io/gh/Postuf/SocksProxyAsync/branch/master/graph/badge.svg)](https://codecov.io/gh/Postuf/SocksProxyAsync)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwkejqb%2FSocksProxyAsync.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwkejqb%2FSocksProxyAsync?ref=badge_shield)
 
 ## Requirements
 
@@ -41,3 +42,7 @@ Tests require working proxy and http server to be up and running, use `node/prox
 By default, http server runs on port 8080, proxy occupies port 1080, tests use these ports.
 
 DNS-related tests require dns server (`node/named.js`) to be up and running.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwkejqb%2FSocksProxyAsync.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwkejqb%2FSocksProxyAsync?ref=badge_large)
